@@ -1,7 +1,7 @@
 import streamlit as st
 from pypdf import PdfReader
 
-st.title("📚 ExamPilot")
+st.title("Exam-Pilot")
 
 st.write(
     "AI study assistant that turns PDF notes into summaries, quizzes, and study plans."
